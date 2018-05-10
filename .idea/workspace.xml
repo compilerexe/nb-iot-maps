@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="650fe1e0-974b-4dcc-a8af-d9f1de739ba7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-dashboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-dashboard/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-dashboard/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-dashboard/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-dashboard/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-dashboard/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vue-dashboard/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-dashboard/src/components/LeftPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-dashboard/src/components/LeftPanel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-dashboard/src/components/RightPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-dashboard/src/components/RightPanel.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +44,8 @@
       <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue-dashboard/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="85">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding>
                 <element signature="e#315#347#0" expanded="true" />
               </folding>
@@ -59,8 +56,8 @@
       <file leaf-file-name="RightPanel.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vue-dashboard/src/components/RightPanel.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -75,8 +72,8 @@
       <file leaf-file-name="LeftPanel.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue-dashboard/src/components/LeftPanel.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -105,9 +102,9 @@
         <option value="$PROJECT_DIR$/functions/package.json" />
         <option value="$PROJECT_DIR$/functions/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/vue-dashboard/src/components/LeftPanel.vue" />
-        <option value="$PROJECT_DIR$/vue-dashboard/src/App.vue" />
         <option value="$PROJECT_DIR$/vue-dashboard/index.html" />
+        <option value="$PROJECT_DIR$/vue-dashboard/src/App.vue" />
+        <option value="$PROJECT_DIR$/vue-dashboard/src/components/LeftPanel.vue" />
         <option value="$PROJECT_DIR$/vue-dashboard/src/components/RightPanel.vue" />
       </list>
     </option>
@@ -1245,12 +1242,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525941969187</updated>
       <workItem from="1525941971494" duration="2310000" />
-      <workItem from="1525947619826" duration="1328000" />
+      <workItem from="1525947619826" duration="1799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3638000" />
+    <option name="totallyTimeSpent" value="4109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="710" extended-state="0" />
@@ -1358,27 +1355,10 @@
     <entry file="file://$PROJECT_DIR$/yarn.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue-dashboard/src/components/LeftPanel.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vue-dashboard/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="108" selection-start-line="9" selection-start-column="108" selection-end-line="9" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-dashboard/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#315#347#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1387,10 +1367,27 @@
         <state relative-caret-position="-1281" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue-dashboard/src/components/RightPanel.vue">
+    <entry file="file://$PROJECT_DIR$/vue-dashboard/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#315#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-dashboard/src/components/LeftPanel.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-dashboard/src/components/RightPanel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
         </state>
       </provider>
     </entry>
